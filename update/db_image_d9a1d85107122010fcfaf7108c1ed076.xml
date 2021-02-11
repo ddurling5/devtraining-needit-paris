@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>112</height>
+        <image/>
+        <name>logo-test.png</name>
+        <size_bytes>1056</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 22:11:31</sys_created_on>
+        <sys_id>d9a1d85107122010fcfaf7108c1ed076</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>logo-test.png</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_d9a1d85107122010fcfaf7108c1ed076</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 22:11:32</sys_updated_on>
+        <thumbnail/>
+        <width>125</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#7ed08f</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>c95d0e26fd4fa60de066ff19c5e2bbfb8d9e45f36672210977f0700713e79a2a</hash>
+        <image_height>112</image_height>
+        <image_width>125</image_width>
+        <size_bytes>1056</size_bytes>
+        <size_compressed>1079</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 22:11:32</sys_created_on>
+        <sys_id>51a1d85107122010fcfaf7108c1ed07c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 22:11:32</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>d9a1d85107122010fcfaf7108c1ed076</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="51a1d85107122010fcfaf7108c1ed07c">51a1d85107122010fcfaf7108c1ed07c</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 22:11:32</sys_created_on>
+        <sys_id>d5a1d85107122010fcfaf7108c1ed07c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>ASAE3/uJUE5HDQoaCgAAAA1JSERSAAAAfQAAAHAIBgAAADMef/sAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAA7VJREFUeF7t3cGNFEEMheFZ7ogcIBLuhEFYhMGdSCAHRACApS5ptrer23bZLlf7/RfmggT1lU3D7A4vf//3QKV6t/2ICgX0ggG9YPf8M/3Py/ZC2Psajzdro2txpd3sMqyFHoV81eKXID96FuheC16AnOjZoXstcgFyoRthf/rxZXsl6+fn79urwZLj50AfwNYCS1JfhqT4c9EV2BHIZ6kuQDL8OehC7NnQvcQXIAl+PDoTPCt0L/YFSAAfh35T7H0r4MegM8BXx97Hwp8E749+AX437H0Z8f3QC053r2zwPujFp7vXJX4QvP376QDvdvl7Z2xHi2wnHeDsTqfeeeLt0E/AgX3cLHib9Q5wVadn47jqx9EBPtQM+DF0gJsUDa9HB7hpkfDmf2UDuL6os9Ohd24ewMfrnqHhtMvRAe6eN7z5ekfOGcDL0DHlYXmeKR8d4OF5rXms9+R5DBUPHVOer4FpV086wOOyPuvrd9kmTvmv39+2V/n7+OHr9sqn7jtyinfjVJOOKY/P8szP0QefElFACiPxpGPK52V19n10TPk6Ca1Ek44pn5+FgepBDq3dMTpW+3oJzNiTjtWep1ELrPeCAf1OMVf8W/SDn4jVnq8RE0x6wYBeMKAXDOgFe42Oh7ilOrRhPMFj0gsG9IIBvWBALxjQCwb0ggG9YEAvGNALBvSCAb1gQC/Ya/SDb4ZjfWw1mtKhDeMbGjHpBQN6wYBeMKAX7C06HuaWaMQEk36nmB9FAvSCsdGx4u9T/9Ol8JWxadP+o0wL671gInSs+PlZGPTRBesCTU5oJV7vmPZ5WZ39OTqm/ZapHuQw7fF1z1wxmNfomPa8KW1Uk05h2uOyPmseOqY9XwMm6kmnMO3+eZwxH71zswDvV/dsBzevbNIBH5bnmQ6tdzQhg+crOTqm3T2vtd7STTrg3fIGp8zXO+D1RZ2dHv3k5gFe3umZGU45NTbpgDcpEpwaX++AHyoanLL5Mx3wqmaAU3YPcoAXNQucuv6/VqVdfDZp9a+ovRwAZ3DKbtJbF7/oylOfAZyyn/QW49OIK019FnDKD50CPG+zBYJTvuitgvgZsVsx6BQDnlodn/3MMgmcikNv3RR/BexWPDrFhG9lvgBsbCoBODUHvSXEpzJcABE0lQS7NRe9pcCnoi6AGLmVDLuVA72lxN+nvQxq3H1JsVu50FtG+OElx27lRH8u+wVYBPq5/OjPZbkAC0I/txb6vqhLsDjyvrXRe41chpsBH3VPdHTS4/EPlj3LJuTQM2gAAAAASUVORK5CYILrC5DZIAQAAA==</data>
+        <length>1428</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="51a1d85107122010fcfaf7108c1ed07c">51a1d85107122010fcfaf7108c1ed07c</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 22:11:32</sys_created_on>
+        <sys_id>59a1d85107122010fcfaf7108c1ed07c</sys_id>
+    </sys_attachment_doc>
+</record_update>
